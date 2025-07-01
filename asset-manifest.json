@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "//st-v-event.github.io/2020/static/css/main.990c4eef.chunk.css",
+    "main.js": "//st-v-event.github.io/2020/static/js/main.735b0a5f.chunk.js",
+    "main.js.map": "//st-v-event.github.io/2020/static/js/main.735b0a5f.chunk.js.map",
+    "runtime-main.js": "//st-v-event.github.io/2020/static/js/runtime-main.95e628ba.js",
+    "runtime-main.js.map": "//st-v-event.github.io/2020/static/js/runtime-main.95e628ba.js.map",
+    "static/js/2.6d05633c.chunk.js": "//st-v-event.github.io/2020/static/js/2.6d05633c.chunk.js",
+    "static/js/2.6d05633c.chunk.js.map": "//st-v-event.github.io/2020/static/js/2.6d05633c.chunk.js.map",
+    "static/js/3.f8840183.chunk.js": "//st-v-event.github.io/2020/static/js/3.f8840183.chunk.js",
+    "static/js/3.f8840183.chunk.js.map": "//st-v-event.github.io/2020/static/js/3.f8840183.chunk.js.map",
+    "index.html": "//st-v-event.github.io/2020/index.html",
+    "static/css/main.990c4eef.chunk.css.map": "//st-v-event.github.io/2020/static/css/main.990c4eef.chunk.css.map",
+    "static/js/2.6d05633c.chunk.js.LICENSE.txt": "//st-v-event.github.io/2020/static/js/2.6d05633c.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "//st-v-event.github.io/2020/static/media/banner.8441b17a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95e628ba.js",
+    "static/js/2.6d05633c.chunk.js",
+    "static/css/main.990c4eef.chunk.css",
+    "static/js/main.735b0a5f.chunk.js"
+  ]
+}
